@@ -13,7 +13,7 @@ your existing sessions — by voice or by text, across every project on your dis
 **[Docs](https://github.com/harkharness/hark/blob/main/docs/USAGE.md)** &nbsp;·&nbsp;
 **[The plugin plan](https://github.com/harkharness/hark/blob/main/docs/PLUGINS.md)**
 
-<img src="profile/hero.png" width="760" alt="The Hark mother window: an orb, a work chat, and every project at a glance">
+<img src="https://raw.githubusercontent.com/harkharness/.github/main/profile/hero.png" width="760" alt="The Hark mother window: an orb, a work chat, and every project at a glance">
 
 </div>
 
